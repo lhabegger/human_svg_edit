@@ -18,7 +18,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="homo_sapiens_female.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   viewBox="0 0 105.43713 194.70567">
+   viewBox="52.718565 0 52.718565 194.70567">
   <metadata
      id="metadata5190">
     <rdf:RDF>
@@ -171,6 +171,7 @@
     </g>
     <g
        id="UBERON_0000955"
+       name="Brain"
        transform="matrix(0.36480822,0,0,0.52802222,-145.09536,-51.07548)"
        inkscape:label="UBERON_0000955"
        style="fill:none;stroke:none">
@@ -183,12 +184,13 @@
     </g>
     <g
        id="UBERON_0000310"
+       name="Breast"
        inkscape:label="UBERON_0000310"
        transform="matrix(0.98552058,0,0,1.6658014,-4.0601995,-109.84972)"
        style="fill:none;stroke:none">
       <title
          id="breast"
-         name="Breast">breast</title>
+         >breast</title>
       <ellipse
          inkscape:label="UBERON_0000310"
          transform="matrix(0.27787235,0,0,0.33648946,-114.27018,35.131606)"
@@ -366,6 +368,7 @@
     </g>
     <g
        id="UBERON_0000992"
+       name="Ovary"
        style="fill:none;stroke:none"
        inkscape:label="UBERON_0000992"
        transform="translate(-28.558744,-76.741038)">
@@ -1114,6 +1117,7 @@
     </g>
     <g
        id="UBERON_0002048"
+       name="Lung"
        transform="matrix(1.0489056,0,0,1.29927,-75.008839,-104.46047)"
        inkscape:label="UBERON_0002048"
        style="fill:none;stroke:none">
